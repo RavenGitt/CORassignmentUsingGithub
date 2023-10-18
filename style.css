@@ -226,4 +226,17 @@
         text-align: center;
         margin-left: 10rem;
     }
-    
+    .foot{
+        border-bottom: 0;
+        width: 100%;
+    }
+      .foot div{
+        border: solid 2px black;
+        background-color: #ddccff;
+    }
+      .foot p{
+        text-align: center;
+    }
+      .foot h5{
+        text-align: end;
+    }
