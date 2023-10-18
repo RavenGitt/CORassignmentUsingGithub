@@ -125,3 +125,6 @@
     flex-direction: column;
     gap: 4.7rem;
   }
+  .value{
+    border-top: solid black ;
+  }
