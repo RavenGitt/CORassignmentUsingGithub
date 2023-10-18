@@ -131,3 +131,12 @@
   .note{
     margin-left: 16px;
   }
+  .asss{
+    background-color: #ddccff;
+    text-align: center;
+    padding: 0.3rem;
+    border: solid 2px black;
+    border-bottom: 0;
+    width: 40rem;
+    margin-left: 5rem;
+  }
