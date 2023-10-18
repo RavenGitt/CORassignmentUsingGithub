@@ -202,4 +202,10 @@
         flex-direction: column;
         width: 100%;
     }
-      
+    .notes{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10rem;
+        font-family:Arial, Helvetica, sans-serif;
+        gap: 1rem;
+      }
