@@ -179,3 +179,21 @@
     width: 40rem;
     margin-left: 5rem;
   }
+  table{
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ccc;;
+    }
+    th{
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: center;
+      background-color: #f2f2f2;
+    }
+    tr:nth-child(even){
+      background-color: #f2f2f2;
+    }
+    .tibol{
+        width: 40rem;
+        margin-left: 5rem;
+      }
