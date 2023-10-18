@@ -208,4 +208,22 @@
         margin-left: 10rem;
         font-family:Arial, Helvetica, sans-serif;
         gap: 1rem;
-      }
+    }
+    .opisyal{
+        margin-top: 7rem;
+        margin-left: 10rem;
+    }
+    .line{
+        margin-left: 10rem;
+    }
+    .approve{
+        margin-left: 14rem;
+        margin-top: 5rem;
+    }
+    .univ{
+        border-top: solid 1px black;
+        width: 9rem;
+        text-align: center;
+        margin-left: 10rem;
+    }
+    
