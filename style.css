@@ -108,3 +108,9 @@
     flex-direction: column;
     gap: 3.7rem;
   }
+  .schedule {
+    margin-left: 10rem;
+    display: flex;
+    flex-direction: column;
+    gap: 4.7rem;
+  }
