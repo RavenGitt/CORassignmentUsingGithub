@@ -166,3 +166,16 @@
   .totalass div {
     display: flex;
   }
+  .amount {
+    width: 10rem;
+    text-align: end;
+    margin-right: 0.5rem;
+  }
+  .schedulee{
+    background-color: #ddccff;
+    text-align: center;
+    padding: 0.3rem;
+    border: solid 2px black;
+    width: 40rem;
+    margin-left: 5rem;
+  }
