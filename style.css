@@ -128,3 +128,6 @@
   .value{
     border-top: solid black ;
   }
+  .note{
+    margin-left: 16px;
+  }
