@@ -76,6 +76,11 @@
     display: flex;
     gap: 1rem;
   }
+  .generalinfo2 {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: start;
+  }
   .subjects {
     margin-left: 7rem;
     display: flex;
@@ -110,6 +115,12 @@
   }
   .schedule {
     margin-left: 10rem;
+    display: flex;
+    flex-direction: column;
+    gap: 4.7rem;
+  }
+  .prof {
+    margin-left: 7.5rem;
     display: flex;
     flex-direction: column;
     gap: 4.7rem;
