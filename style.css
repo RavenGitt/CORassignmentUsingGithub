@@ -196,4 +196,10 @@
     .tibol{
         width: 40rem;
         margin-left: 5rem;
-      }
+    }
+    .rule{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+      
