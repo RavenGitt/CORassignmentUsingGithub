@@ -76,3 +76,18 @@
     display: flex;
     gap: 1rem;
   }
+  .subjects {
+    margin-left: 7rem;
+    display: flex;
+    gap: 3rem;
+  }
+  .details{
+    display: flex;
+    flex-direction: column;
+    gap: 4.2rem;
+  }
+  .Sabjik{
+    display: flex;
+    flex-direction: column;
+    gap: 4.8rem;
+  }
