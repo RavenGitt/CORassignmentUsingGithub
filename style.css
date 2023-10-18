@@ -153,3 +153,16 @@
     margin-left: 9rem;
     text-align: center;
   }
+  .totalass {
+    border-left: solid 2px black;
+    border-right: solid 2px black;
+    margin-left: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    border-top: solid 2px black;
+    padding: 0.2rem;
+  }
+  .totalass div {
+    display: flex;
+  }
